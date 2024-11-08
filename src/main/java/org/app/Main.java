@@ -9,6 +9,6 @@ public class Main {
 
         Greeting greeting = context.getBean(Greeting.class);
 
-        System.out.println(greeting.getGreeting("Ferdy"));
+        System.out.println(greeting.getGreeting("Raul"));
     }
 }
